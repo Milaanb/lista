@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>lista</title>
+</head> 
+<body>
+    <header style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 25px;">Big Mac</header>
+    <ul>
+        <li>0.5 kg darált sertéshús</li>
+        <li>0.5 kg darált marhahús</li>
+        <li>16 db lapkasajt</li>
+        <li>25 dkg csemegeuborka</li>
+        <li>1 közepes fej jégsaláta</li>
+        <li>8 db hamburger zsemle</li>
+        <li>2.5 közepes fej vöröshagyma</li>
+        <li>3 kk fokhagymapor</li>
+        <li>só ízlés szerint</li>
+        <li>bors ízlés szerint</li>
+        <li>flekken fűszerkeverék ízlés szerint</li>
+        <li>3 dl napraforgó olaj</li>
+    </ul>
+    <header style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 25px;">Szósz</header>
+    <ul>
+        <li>3 ek majonéz</li>
+        <li>1 ek mustár</li>
+        <li>1 teáskanál ketchup</li>
+        <li>0.5 közepes fej vöröshagyma</li>
+        <li>1 kk fokhagymapor</li>
+        <li>1 teáskanál cukor</li>
+        <li>1 kk fűszerpaprika</li>
+        <li>1 közepes db csemegeuborka</li>
+        <li>2 csepp fehérborecet</li>
+    </ul>
+
+</body>
+</html>
